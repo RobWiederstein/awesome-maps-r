@@ -48,6 +48,10 @@ This repository aggregates helpful resources for creating maps in `R`.
 
 - [Proj](https://proj.org/en/9.4/) "supports more than a hundred different map projections and can transform coordinates between datums using all but the most obscure geodetic techniques."
 
+## Contribute
+
+Contributions are always welcome! Please read the contribution [guidelines](./CONTRIBUTIONS.MD) first.
+
 ## License
 
 ![](./img/cc-zero.svg)
