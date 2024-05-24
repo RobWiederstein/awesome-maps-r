@@ -1,8 +1,6 @@
-# awesome-maps-r [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-maps-r [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://picsum.photos/100" align="right" width="200" height="200"/>
 
-<img src="https://picsum.photos/100" align="right" width="100" height="100"/>
-
-- [awesome-maps-r ](#awesome-maps-r-)
+- [awesome-maps-r  ](#awesome-maps-r--)
   - [Books](#books)
   - [Datasets](#datasets)
   - [Packages](#packages)
