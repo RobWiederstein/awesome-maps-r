@@ -14,9 +14,6 @@ This repository aggregates helpful resources for creating maps in `R`.
 
 - [Spatial Data Science Code With Applications in R](https://r-spatial.org/book/)
 
-- [leaflet](https://rstudio.github.io/leaflet/articles/leaflet.html) "is one of the most popular open-source JavaScript libraries for interactive maps. It’s used by websites ranging from The New York Times and The Washington Post to GitHub and Flickr, as well as GIS specialists like OpenStreetMap, Mapbox, and CartoDB."
-
-- [tmap](https://r-tmap.github.io/tmap/) "is an actively maintained open-source R-library for drawing thematic maps. The API is based on A Layered Grammar of Graphics and resembles the syntax of ggplot2, a popular R-library for drawing charts."
 
 ## Datasets
 
@@ -24,29 +21,31 @@ This repository aggregates helpful resources for creating maps in `R`.
 
 ## Packages
 
-- `ggplot2`
+- [`ggplot2`](https://ggplot2.tidyverse.org) "is a system for declaratively creating graphics, based on The Grammar of Graphics.
 
-- `sf` package by Edzer Pebesma is the default toolset for working with geographic data in R.
+- [leaflet](https://rstudio.github.io/leaflet/articles/leaflet.html) "is one of the most popular open-source JavaScript libraries for interactive maps. It’s used by websites ranging from The New York Times and The Washington Post to GitHub and Flickr, as well as GIS specialists like OpenStreetMap, Mapbox, and CartoDB."
 
 - `rmapshaper` can simplify polygons and reduce file sizes.
 
-- `rmapshaper` package is a "wrapper around the 'mapshaper' 'JavaScript' library by Matthew Bloch <https://github.com/mbloch/mapshaper/> to perform topologically-aware polygon simplification, as well as other operations such as clipping, erasing, dissolving, and converting 'multi-part' to 'single-part' geometries." The project has a wiki.
+- [`rmapshaper`](https://github.com/mbloch/mapshaper/)  "is a wrapper around the 'mapshaper' 'JavaScript' library by Matthew Bloch to perform topologically-aware polygon simplification, as well as other operations such as clipping, erasing, dissolving, and converting 'multi-part' to 'single-part' geometries."
 
-- The maps from the `rnaturalearth` package were used to construct the maps here.  According to their [website](https://www.naturalearthdata.com), Natural Earth "is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software." 
-
-- [`USAboundaries`](https://docs.ropensci.org/USAboundaries/) package "includes contemporary state, county, and Congressional district boundaries, as well as zip code tabulation area centroids. It also includes historical boundaries from 1629 to 2000 for states and counties from the Newberry Library’s Atlas of Historical County Boundaries, as well as historical city population data from Erik Steiner’s “United States Historical City Populations, 1790-2010.” The package has some helper data, including a table of state names, abbreviations, and FIPS codes, and functions and data to get State Plane Coordinate System projections as EPSG codes or PROJ.4 strings."
+- `rnaturalearth` "is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software." 
 
 - [`tigris`](https://github.com/walkerke/tigris) package allows users "to directly download and use TIGER/Line shapefiles from the US Census." Tiger/Line shapefiles contain "current geographic extent and boundaries of both legal and statistical entities (which have no governmental standing) for the United States, the District of Columbia, Puerto Rico, and the Island areas."
 
-## Resources
+- [tmap](https://r-tmap.github.io/tmap/) "is an actively maintained open-source R-library for drawing thematic maps. The API is based on A Layered Grammar of Graphics and resembles the syntax of ggplot2, a popular R-library for drawing charts."
 
-- [Mapshaper](https://mapshaper.org)
+- `sf` package by Edzer Pebesma is the default toolset for working with geographic data in R.
+
+- [`USAboundaries`](https://docs.ropensci.org/USAboundaries/) package "includes contemporary state, county, and Congressional district boundaries, as well as zip code tabulation area centroids. It also includes historical boundaries from 1629 to 2000 for states and counties from the Newberry Library’s Atlas of Historical County Boundaries, as well as historical city population data from Erik Steiner’s “United States Historical City Populations, 1790-2010.” The package has some helper data, including a table of state names, abbreviations, and FIPS codes, and functions and data to get State Plane Coordinate System projections as EPSG codes or PROJ.4 strings."
+
+## Resources
 
 - [EPSG Geodetic Parameter Dataset](https://epsg.org/home.html) "contains definitions of coordinate reference systems and coordinate transformations which may be global, regional, national or local in application."
 
-- [Mapshaper](https://mapshaper.org)
-
 - [Map Projection Explorer](https://www.geo-projections.com)
+
+-  [Mapshaper](https://mapshaper.org)
 
 - [Projection Wizard](https://projectionwizard.org/#)
 
