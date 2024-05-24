@@ -1,5 +1,15 @@
 # awesome-maps-r [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<img src="https://picsum.photos/100" align="right" width="100" height="100"/>
+
+- [awesome-maps-r ](#awesome-maps-r-)
+  - [Books](#books)
+  - [Datasets](#datasets)
+  - [Packages](#packages)
+  - [Resources](#resources)
+  - [Contribute](#contribute)
+  - [License](#license)
+  
 This repository aggregates helpful resources for creating maps in `R`.
 
 ## Books
