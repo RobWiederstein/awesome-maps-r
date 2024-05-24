@@ -1,4 +1,4 @@
-# awesome-maps-r
+# awesome-maps-r [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repository aggregates helpful resources for creating maps in `R`.
 
