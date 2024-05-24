@@ -14,6 +14,10 @@ This repository aggregates helpful resources for creating maps in `R`.
 
 - [Spatial Data Science Code With Applications in R](https://r-spatial.org/book/)
 
+- [leaflet](https://rstudio.github.io/leaflet/articles/leaflet.html) "is one of the most popular open-source JavaScript libraries for interactive maps. It’s used by websites ranging from The New York Times and The Washington Post to GitHub and Flickr, as well as GIS specialists like OpenStreetMap, Mapbox, and CartoDB."
+
+- [tmap](https://r-tmap.github.io/tmap/) "is an actively maintained open-source R-library for drawing thematic maps. The API is based on A Layered Grammar of Graphics and resembles the syntax of ggplot2, a popular R-library for drawing charts."
+
 ## Datasets
 
 - [USGS - Great Lakes and Watershed Shape Files](https://www.sciencebase.gov/catalog/item/530f8a0ee4b0e7e46bd300dd)
