@@ -1,4 +1,4 @@
-# awesome-maps-r [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://picsum.photos/100" align="right" width="200" height="200"/>
+# awesome-maps-r [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://icon.png" align="right" width="150" height="150"/>
 
 - [awesome-maps-r  ](#awesome-maps-r--)
   - [Books](#books)
@@ -31,13 +31,19 @@ This repository aggregates helpful resources for creating maps in `R`.
 
 - [`ggplot2`](https://ggplot2.tidyverse.org) "is a system for declaratively creating graphics, based on The Grammar of Graphics.
 
+- [`ggspatial`](https://paleolimbot.github.io/ggspatial/) interacts with `ggplot2` as the backend.  Can add scale bars and direction.
+
 - [leaflet](https://rstudio.github.io/leaflet/articles/leaflet.html) "is one of the most popular open-source JavaScript libraries for interactive maps. It’s used by websites ranging from The New York Times and The Washington Post to GitHub and Flickr, as well as GIS specialists like OpenStreetMap, Mapbox, and CartoDB."
+
+- [`ozmaps`](https://mdsumner.github.io/ozmaps/) contains maps of Australia.
 
 - `rmapshaper` can simplify polygons and reduce file sizes.
 
 - [`rmapshaper`](https://github.com/mbloch/mapshaper/)  "is a wrapper around the 'mapshaper' 'JavaScript' library by Matthew Bloch to perform topologically-aware polygon simplification, as well as other operations such as clipping, erasing, dissolving, and converting 'multi-part' to 'single-part' geometries."
 
 - `rnaturalearth` "is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software." 
+
+- [`spData`](https://jakubnowosad.com/spData/) is described as "[d]iverse spatial datasets for demonstrating, benchmarking and teaching spatial data analysis. It includes R data of class sf (defined by the package `sf`), Spatial (`sp`), and nb (`spdep`). Unlike other spatial data packages such as         `rnaturalearth` and `maps`, it also contains data stored in a range of file formats including GeoJSON, ESRI Shapefile and GeoPackage."
 
 - [`tigris`](https://github.com/walkerke/tigris) package allows users "to directly download and use TIGER/Line shapefiles from the US Census." Tiger/Line shapefiles contain "current geographic extent and boundaries of both legal and statistical entities (which have no governmental standing) for the United States, the District of Columbia, Puerto Rico, and the Island areas."
 
