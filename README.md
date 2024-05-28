@@ -1,4 +1,4 @@
-# awesome-maps-r [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="./img/icon.png" align="right" width="150" height="150"/>
+# awesome-maps-r [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="./img/icon.jpg" align="right" width="150" height="150"/>
 
 - [awesome-maps-r  ](#awesome-maps-r--)
   - [Books](#books)
@@ -20,10 +20,14 @@ This repository aggregates helpful resources for creating maps in `R`.
 
 - [ggplot2: Elegant Graphics for Data Analysis (3e)- Chapter 6 - Maps](https://ggplot2-book.org/maps.html)
 
+- [R Graphics Cookbook, 2nd edition](https://r-graphics.org)
+
 - [Spatial Data Science Code With Applications in R](https://r-spatial.org/book/)
 
 
 ## Datasets
+
+- Flanders Marine Institute (2021). Global Oceans and Seas, version 1. Available online at [https://www.marineregions.org/](https://www.marineregions.org/). https://doi.org/10.14284/542
 
 - [USGS - Great Lakes and Watershed Shape Files](https://www.sciencebase.gov/catalog/item/530f8a0ee4b0e7e46bd300dd)
 
@@ -64,6 +68,8 @@ This repository aggregates helpful resources for creating maps in `R`.
 - [Projection Wizard](https://projectionwizard.org/#)
 
 - [Proj](https://proj.org/en/9.4/) "supports more than a hundred different map projections and can transform coordinates between datums using all but the most obscure geodetic techniques."
+
+- [R-Charts](https://r-charts.com)
 
 ## Contribute
 
