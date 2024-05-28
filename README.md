@@ -1,4 +1,4 @@
-# awesome-maps-r [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="./img/icon.jpg" align="right" width="150" height="150"/>
+# awesome-maps-r [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="./img/icon.png" align="right" width="150" height="150"/>
 
 - [awesome-maps-r  ](#awesome-maps-r--)
   - [Books](#books)
