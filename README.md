@@ -37,7 +37,7 @@ This repository aggregates helpful resources for creating maps in `R`.
 
 - [`ggspatial`](https://paleolimbot.github.io/ggspatial/) interacts with `ggplot2` as the backend.  Can add scale bars and direction.
 
-- [leaflet](https://rstudio.github.io/leaflet/articles/leaflet.html) "is one of the most popular open-source JavaScript libraries for interactive maps. It’s used by websites ranging from The New York Times and The Washington Post to GitHub and Flickr, as well as GIS specialists like OpenStreetMap, Mapbox, and CartoDB."
+- [`leaflet`](https://rstudio.github.io/leaflet/articles/leaflet.html) "is one of the most popular open-source JavaScript libraries for interactive maps. It’s used by websites ranging from The New York Times and The Washington Post to GitHub and Flickr, as well as GIS specialists like OpenStreetMap, Mapbox, and CartoDB."
 
 - [`ozmaps`](https://mdsumner.github.io/ozmaps/) contains maps of Australia.
 
@@ -51,7 +51,7 @@ This repository aggregates helpful resources for creating maps in `R`.
 
 - [`tigris`](https://github.com/walkerke/tigris) package allows users "to directly download and use TIGER/Line shapefiles from the US Census." Tiger/Line shapefiles contain "current geographic extent and boundaries of both legal and statistical entities (which have no governmental standing) for the United States, the District of Columbia, Puerto Rico, and the Island areas."
 
-- [tmap](https://r-tmap.github.io/tmap/) "is an actively maintained open-source R-library for drawing thematic maps. The API is based on A Layered Grammar of Graphics and resembles the syntax of ggplot2, a popular R-library for drawing charts."
+- [`tmap`](https://r-tmap.github.io/tmap/) "is an actively maintained open-source R-library for drawing thematic maps. The API is based on A Layered Grammar of Graphics and resembles the syntax of ggplot2, a popular R-library for drawing charts."
 
 - [`sf`](https://r-spatial.github.io/sf/) package by Edzer Pebesma is the default toolset for working with geographic data in R.
 
@@ -59,11 +59,17 @@ This repository aggregates helpful resources for creating maps in `R`.
 
 ## Resources
 
+- [ColorBrewer 2.0](https://colorbrewer2.org/)
+
 - [EPSG Geodetic Parameter Dataset](https://epsg.org/home.html) "contains definitions of coordinate reference systems and coordinate transformations which may be global, regional, national or local in application."
+
+- [Bloomberg-MapLab](https://www.bloomberg.com/citylab/maplab)
 
 - [Map Projection Explorer](https://www.geo-projections.com)
 
 -  [Mapshaper](https://mapshaper.org)
+
+- [North American Cartographic Information Society](https://nacis.org)
 
 - [Projection Wizard](https://projectionwizard.org/#)
 
