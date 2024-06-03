@@ -18,9 +18,15 @@ This repository aggregates helpful resources for creating maps in `R`.
 
 - [Geocomputation with R](https://r.geocompx.org)
 
+- [Geocomputation with R Book Club](https://r4ds.github.io/bookclub-geocompr/)
+
 - [ggplot2: Elegant Graphics for Data Analysis (3e)- Chapter 6 - Maps](https://ggplot2-book.org/maps.html)
 
+- [Intro to GIS and Spatial Analysis - Manny Gimond](https://mgimond.github.io/Spatial/index.html)
+
 - [R Graphics Cookbook, 2nd edition](https://r-graphics.org)
+
+- [R as GIS for Economists](https://tmieno2.github.io/R-as-GIS-for-Economists/)
 
 - [Spatial Data Science Code With Applications in R](https://r-spatial.org/book/)
 
@@ -37,6 +43,8 @@ This repository aggregates helpful resources for creating maps in `R`.
 
 - [`ggspatial`](https://paleolimbot.github.io/ggspatial/) interacts with `ggplot2` as the backend.  Can add scale bars and direction.
 
+- [`giscoR`](https://ropengov.github.io/giscoR/) "is an API package that helps to retrieve data from Eurostat - GISCO (the Geographic Information System of the COmmission). It also provides some lightweight data sets ready to use without downloading."
+
 - [`leaflet`](https://rstudio.github.io/leaflet/articles/leaflet.html) "is one of the most popular open-source JavaScript libraries for interactive maps. It’s used by websites ranging from The New York Times and The Washington Post to GitHub and Flickr, as well as GIS specialists like OpenStreetMap, Mapbox, and CartoDB."
 
 - [`ozmaps`](https://mdsumner.github.io/ozmaps/) contains maps of Australia.
@@ -48,6 +56,8 @@ This repository aggregates helpful resources for creating maps in `R`.
 - [`rnaturalearth`](https://docs.ropensci.org/rnaturalearth/index.html) "is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software." 
 
 - [`spData`](https://jakubnowosad.com/spData/) is described as "[d]iverse spatial datasets for demonstrating, benchmarking and teaching spatial data analysis. It includes R data of class sf (defined by the package `sf`), Spatial (`sp`), and nb (`spdep`). Unlike other spatial data packages such as         `rnaturalearth` and `maps`, it also contains data stored in a range of file formats including GeoJSON, ESRI Shapefile and GeoPackage."
+
+- [`spDataLarge`](https://jakubnowosad.com/spDataLarge/) contains large datasets for spatial analysis.
 
 - [`tigris`](https://github.com/walkerke/tigris) package allows users "to directly download and use TIGER/Line shapefiles from the US Census." Tiger/Line shapefiles contain "current geographic extent and boundaries of both legal and statistical entities (which have no governmental standing) for the United States, the District of Columbia, Puerto Rico, and the Island areas."
 
@@ -68,6 +78,8 @@ This repository aggregates helpful resources for creating maps in `R`.
 - [Map Projection Explorer](https://www.geo-projections.com)
 
 -  [Mapshaper](https://mapshaper.org)
+
+- [Natural Earth](https://www.naturalearthdata.com) "Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software." (The `rnaturalearth` package is based on the data available from this website).
 
 - [North American Cartographic Information Society](https://nacis.org)
 
