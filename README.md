@@ -30,6 +30,12 @@ This repository aggregates helpful resources for creating maps in `R`.
 
 - [Spatial Data Science Code With Applications in R](https://r-spatial.org/book/)
 
+- [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/index.html)
+
+## Presentations
+
+[Mapping in R](https://map-rfun.library.duke.edu/01_georeference.html)
+
 
 ## Datasets
 
